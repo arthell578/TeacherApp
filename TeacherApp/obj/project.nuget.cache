@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aR5QeEhPkQqNPFcGyhix8N5yZQs05VImdI53IgXc58qrrfXzuuaqAI6GBM7no2fY0ONoJf0uP26IvgVGQJlwKQ==",
+  "dgSpecHash": "wABK9y6kxsEbXIRnjc0Xn0aOA+umHpPxlbIIuiMFXS8rtQAaulVL1GavBs8maEYVPXy79zrSiNxIWZ1C8RDDCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcin\\source\\repos\\TeacherApp\\TeacherApp\\TeacherApp.csproj",
+  "projectFilePath": "C:\\Users\\Marcin\\Desktop\\TeacherApp\\TeacherApp\\TeacherApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Marcin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
